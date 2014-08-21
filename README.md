@@ -13,7 +13,7 @@
 4. Applies descriptive activity names to name the activities in the data set. (from activity_labels.txt)
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. Saves it as "tidy_data.txt" (created with `write.table()` using `row.names=FALSE`)
 
-[Code Book](CodeBook.md) describes 
+[Code Book](CodeBook.md) describes the resultant data set in detail.
 
 ------------------------
 ### Assignment checklist
